@@ -1,0 +1,24 @@
+{
+    "name": "cordova-plugin-activityindicator",
+    "version": "1.0.0",
+    "description": "copy of cordova-plugin-activityindicator",
+    "author": "sugar",
+    "cordova": {
+      "id": "cordova-plugin-secure-storage",
+      "platforms": ["android", "ios", "wp8", "windows"]
+    },
+    "keywords": [
+      "cordova",
+      "ecosystem:cordova",
+      "cordova-android",
+      "cordova-ios",
+      "cordova-wp8",
+      "cordova-windows",
+      "cordova-browser"
+    ],
+    "main": "www/securestorage.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/modanch/cordova-activityindicator.git"
+    }
+  }
